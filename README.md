@@ -6,7 +6,7 @@ and run `flutter build aar`.
 ## Problem
 
 This issue occurs in Flutter 3.29.2 when using a Flutter plugin from a Flutter
-[prebuilt-module](https://github.com/flutter/samples/add_to_app/prebuilt_module/README.md).
+[prebuilt-module](https://github.com/flutter/samples/tree/main/add_to_app/prebuilt_module/README.md).
 
 The prebuilt module will fail to build with `flutter build aar` with the following error:
 
