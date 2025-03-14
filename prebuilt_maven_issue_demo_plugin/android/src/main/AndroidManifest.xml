@@ -1,0 +1,3 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="com.example.prebuilt_maven_issue_demo_plugin">
+</manifest>
